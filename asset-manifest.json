@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/FormStyleReact/static/js/main.a025776b.chunk.js",
+    "main.js.map": "/FormStyleReact/static/js/main.a025776b.chunk.js.map",
+    "runtime-main.js": "/FormStyleReact/static/js/runtime-main.e7b506ce.js",
+    "runtime-main.js.map": "/FormStyleReact/static/js/runtime-main.e7b506ce.js.map",
+    "static/js/2.77f73bf7.chunk.js": "/FormStyleReact/static/js/2.77f73bf7.chunk.js",
+    "static/js/2.77f73bf7.chunk.js.map": "/FormStyleReact/static/js/2.77f73bf7.chunk.js.map",
+    "index.html": "/FormStyleReact/index.html",
+    "static/js/2.77f73bf7.chunk.js.LICENSE.txt": "/FormStyleReact/static/js/2.77f73bf7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7b506ce.js",
+    "static/js/2.77f73bf7.chunk.js",
+    "static/js/main.a025776b.chunk.js"
+  ]
+}
